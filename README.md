@@ -1,2 +1,2 @@
 # gittest
-For starting github repo
+This is just a demo test For starting github repo
